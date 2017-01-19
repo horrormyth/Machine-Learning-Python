@@ -1,5 +1,6 @@
-# Machine-Learning-Python
-Machine Learning with Python
+# Machine Learning with Python
+
+Using pandas,sklearn,numpy pandas, seaborn and plotly
 
 - Linear Regression 
 - Logistic Regression
@@ -10,4 +11,4 @@ Machine Learning with Python
 - PCA analysis
 - Parameter Tuning using Gridsearch,GradientBoost,Ensemble
 
-The repo includes the machine learning algorithm in use with python.
+The repo includes the machine learning algorithm in use with python.A work in progress.
